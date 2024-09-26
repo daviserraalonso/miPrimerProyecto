@@ -1,1 +1,2 @@
 "Tengo conocimientos previos en HTML." 
+"Tengo conocimientos previos en CSS." 
